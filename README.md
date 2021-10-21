@@ -45,3 +45,5 @@ Ca(H2PO2)2 Calcium hypophosphite OR -Sodium Hypophosphite
 
 Seno Immerse Tin: sulfuric acid, stannus chloride and thiouria.
 
+degreaser:  1Tablespoon salt.  250ml vinegar. 500ml H2O
+

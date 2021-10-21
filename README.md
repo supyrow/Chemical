@@ -15,7 +15,7 @@ HCl hydrochloric acid 33-35% 2l
 
 PdCl2 Paladium Chloride      100mg
 
-H2O2 33-35%                  2l
+H2O2 Hydrogen Peroxide  33-35%  2l
 
 H2O distilled water          2l
 

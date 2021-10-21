@@ -47,3 +47,4 @@ Seno Immerse Tin: sulfuric acid, stannus chloride and thiouria.
 
 degreaser:  1Tablespoon salt.  250ml vinegar. 500ml H2O
 
+CaCO3 Calcium Carbonate

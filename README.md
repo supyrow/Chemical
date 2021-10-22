@@ -1,7 +1,7 @@
 # Chemical
 Chemicals needed for electronics engineering / PCB manufacture
 
-
+all measurements are estimated for six months worth of use.
 
 SnCl2   stannus chloride dihydrate    57g - OR Tin(II)
 
